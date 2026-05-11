@@ -31,3 +31,21 @@ This license allows for redistribution, commercial and non-commercial, as long a
 it is passed along unchanged and in whole, with credit to Kisara Bandara. 
 
 YOU ARE NOT PERMITTED TO EDIT, ALTER, OR TRANSFORM THIS WORK.
+
+# Zflaude AI - Official Repository
+
+Developed by **Kisara Bandara** | **Space-Z Systems.i2p**
+Powered by **Kali Linux Nodes**
+
+## 🛡️ Access & Permissions
+This project is **CLOSED FOR MODIFICATION**. While the project is public for use and transparency, the following rules apply:
+
+- ✅ **Public Access:** Anyone can use the AI via [https://zflaude.space-z.ai](https://zflaude.space-z.ai).
+- ❌ **No Editing:** No one has permission to fork, edit, or modify the core systems.
+- ❌ **No Commercial Use:** You cannot sell or profit from this AI without permission.
+
+## 🐧 Technical Identity
+The system is built on specialized Kali Linux infrastructure, making it secure and stable. It is designed to be your ultimate **AI Assistant and Digital Pet**.
+
+---
+**© 2026 Kisara Bandara. All Rights Reserved.**
